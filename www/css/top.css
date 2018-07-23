@@ -1,0 +1,9 @@
+/* This is a CSS file */
+div.frame{
+  background-image: url(https://uds.gnst.jp/rest/img/kr3zp85u0000/s_0000.jpg?t=1469348399);
+  background-size: cover;
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  height: 100vh;
+}
